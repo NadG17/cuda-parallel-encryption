@@ -1,0 +1,2 @@
+Hello, this is a sample input text to demonstrate CUDA-based parallel AES and RC4 encryption.
+It contains multiple lines and symbols like @, #, $, and numbers 1234567890.
